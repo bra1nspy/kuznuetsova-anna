@@ -8,8 +8,8 @@ import {themes as prismThemes} from 'prism-react-renderer';
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'My Site',
-  tagline: 'Dinosaurs are cool',
+  title: 'kuznuetsova-anna',
+  tagline: 'Hello World!',
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
@@ -64,9 +64,9 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       // Replace with your project's social card
-      image: 'img/docusaurus-social-card.jpg',
+      image: 'tumblr_a9a5c38d8df6db0a5236ee16c5a5cd16_093dea78_400.png',
       navbar: {
-        title: 'My Site',
+        title: 'kuznuetsova-anna',
         logo: {
           alt: 'My Site Logo',
           src: 'img/logo.svg',
