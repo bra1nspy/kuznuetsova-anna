@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkkuznuetsova_anna=self.webpackChunkkuznuetsova_anna||[]).push([[1903],{1912:a=>{a.exports=JSON.parse('{"blogBasePath":"/kuznuetsova-anna/blog","blogTitle":"Blog"}')}}]);
